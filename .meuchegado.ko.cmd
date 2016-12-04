@@ -1,0 +1,1 @@
+cmd_/home/knute/Downloads/hello_world_dev/meuchegado.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/knute/Downloads/hello_world_dev/meuchegado.ko /home/knute/Downloads/hello_world_dev/meuchegado.o /home/knute/Downloads/hello_world_dev/meuchegado.mod.o
