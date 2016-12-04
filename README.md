@@ -5,7 +5,9 @@ Device driver que printa e aí meu chegado quando requisitado em /dev/chegado.
 
 
 
-Para adicionar o modulo use o comando make
+Para compilar o modulo use o comando make
 
-em seguida digite sudo insmod ./meuchegado.ko
+em seguida para adiciona-lo aos devices digite:
+        
+   sudo insmod ./meuchegado.ko
 
